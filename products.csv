@@ -1,0 +1,6 @@
+product_id,name,category,price,stock_quantity
+1,Laptop Pro,Electronics,999.99,25
+2,Wireless Mouse,Electronics,29.99,150
+3,Office Chair,Furniture,199.99,75
+4,Standing Desk,Furniture,399.99,20
+5,Coffee Mug,Kitchen,12.99,200

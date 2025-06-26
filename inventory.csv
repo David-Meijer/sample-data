@@ -1,0 +1,6 @@
+warehouse_id,product_id,quantity_available,last_updated
+WH001,1,25,2024-01-20
+WH001,2,150,2024-01-20
+WH002,3,50,2024-01-20
+WH002,4,20,2024-01-20
+WH003,5,200,2024-01-20
